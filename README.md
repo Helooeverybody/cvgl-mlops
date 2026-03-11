@@ -1,4 +1,4 @@
-# 🛸Cross-View Geo-Localization -MLOPs Platform
+# 🛸Cross-View Geo-Localization - MLOPs Platform
 
 [![MLOps](https://img.shields.io/badge/Architecture-MLOps-20232A?style=for-the-badge&logo=git)](https://mlops.org/)
 [![Computer Vision](https://img.shields.io/badge/Domain-Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv)](https://opencv.org/)
