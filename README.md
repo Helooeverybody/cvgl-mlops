@@ -1,9 +1,9 @@
 # 🛸Cross-View Geo-Localization -MLOPs Platform
 
-
+[![MLOps](https://img.shields.io/badge/Architecture-MLOps-20232A?style=for-the-badge&logo=git)](https://mlops.org/)
+[![Computer Vision](https://img.shields.io/badge/Domain-Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv)](https://opencv.org/)
 [![CI/CD Pipeline](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue?style=for-the-badge&logo=github)](https://github.com/)
 [![Serving](https://img.shields.io/badge/Serving-FastAPI%20%7C%20ONNX-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
-[![Orchestration](https://img.shields.io/badge/Orchestration-Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow)](https://airflow.apache.org/)
 [![Tracking](https://img.shields.io/badge/Tracking-MLflow-0194E2?style=for-the-badge&logo=mlflow)](https://mlflow.org/)
 
 
